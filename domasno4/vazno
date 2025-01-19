@@ -1,1 +1,3 @@
 domasnoto se naogja vo repozitoriumot dians-webapp. Link : https://github.com/EvgenijaSotiroska/dians-webapp
+Odbravme Observer pattern, zatoa shto na toj nacin vodime evidencija za promenite koi se slucuvaat vo akciite, odnosno sekogash koga ima nekoja promena, nie dobivame log. Se dobiva pogolema preglednost za promenite koi se
+slucuvaat.
